@@ -10,3 +10,8 @@ Backend: FastAPI
 <p align="center">
   <img width="600" src="screenshot.png" alt="App Screenshot">
 </p>
+
+## Thumbnail
+<p align="center">
+  <img width="600" src="thumbnail.png" alt="App Thumbnail">
+</p>
